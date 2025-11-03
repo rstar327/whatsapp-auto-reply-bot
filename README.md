@@ -58,11 +58,5 @@ GitHub push protection is enabled to block secrets.
 <div>Last Message: [3:12 pm, 20/06/2025] Ammar: Bro, my CNIC got rejected 😂</div>
 <div>AI Response: Are you trying to verify your CNIC or applying to NASA? 😂</div>
 <br/>
-🙋‍♂️ Author
-<div>Abdul Manan</div>
-<div>Front-end Developer | Python Automation Enthusiast</div>
-<div>📍 Karachi, Pakistan</div>
-<div>📧 abdul.manan232332@gmail.com</div>
-<div>🔗 abdul-manan.vercel.app</div>
 
 
