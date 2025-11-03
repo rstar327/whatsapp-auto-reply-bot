@@ -29,8 +29,8 @@ An automated browser-based bot that reads chat from any browser, uses Groq AI to
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repo
-git clone https://github.com/AbdulManan30/Auto-Reply-Bot.git
-cd Auto-Reply-Bot
+git clone https://github.com/rstar327/whatsapp-auto-reply-bot.git
+cd whatsapp-auto-reply-bot
 
 ### 2. Create a Virtual Environment
 python3 -m venv myenv
